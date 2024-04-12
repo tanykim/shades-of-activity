@@ -5,22 +5,24 @@ function Main(props) {
   const {year, data, typeIds} = props;
 
   const getDateCount = (i) => { return new Date(year, i + 1, 0).getDate(); }
-  const months = Array.from({length: 12}, (v, i) => {
+  const months = Array.from({length: 12}, (_, i) => {
     const firstDay = new Date(year, i, 1).getDay();
     const dateCount = getDateCount(i);
     // fill empty string till the first day when the first day is not Sunday
     const allDays = Array(firstDay).fill('').concat(
-      ...Array.from({length: dateCount}, (v, i) => i + 1)
+      ...Array.from({length: dateCount}, (_, i) => i + 1)
     );
+    const allDaysSplit = Array.from({length: Math.ceil(allDays.length / 7)}, (_, i) => allDays.slice(i * 7, i * 7 + 7));
     return {
       id: i + 1,
       name: new Date(year, i).toLocaleString('en-US', {month: 'long'}),
       allDays,
+      allDaysSplit,
     };
   });
 
   // get the largest day count including empty days from Sunday
-  let dateCountMax = Math.max(...months.map(m => m.allDays.length));
+  const dateCountMax = Math.max(...months.map(m => m.allDays.length));
   // get day labels from Sunday to the day of the late date in the year
   const weekCount = Math.ceil(dateCountMax / 7);
   const days = 'Sun/Mon/Tue/Wed/Thu/Fri/Sat/'
@@ -98,40 +100,46 @@ function Main(props) {
         <td className="month-name">{month.name}</td>
         <td className="month-dates">
           {/* each month */}
-          {month.allDays.map((day, i) => {
-            const dateStr = `${month.id}/${day}`;
-            const activities = data[dateStr];
-            // when hovered show black bg & white text
-            const isHover = tooltip != null && tooltip.dateStr === dateStr;
-            return (<div key={i}
-              className={`date${isHover ? ' black' : ''}${day !== '' ? ' valid' : ''}${activities != null ? ' with-data' : ''}`}
-              onMouseOver={() => showDetail(month.id, day)}
-              onMouseOut={() => hideDetail()}
-              >
-              {/* fill SVG background when there are activities,
-                assuming there are only upto 2 kinds of activities in one day */}
-              {activities != null && <>
-                {activities.map((a, j) => <div key={j}
-                  className={`active fill-${isHover ? 'black' : typeIds[a.type]}`}>
-                  <svg viewBox="0 0 32 32" className={`fill${j === 1 ? '-half' : ''}`}>
-                    <use xlinkHref={`#fill${j === 1 ? '-half' : ''}`}/>
-                  </svg>
-                </div>)}
-              </>}
-              {inactiveDays[dateStr] === true && <div className="inactive">
-                <svg viewBox="0 0 24 24" className="fill">
-                  <use xlinkHref="#inactive"/>
-                </svg>
-              </div>}
-              <div>{day}</div>
-              {isHover && <div className="tooltip">
-                <div className="tooltip-content">
-                  <div>{tooltip.dateStr}</div>
-                  <div dangerouslySetInnerHTML={tooltip.content}/>
-                </div>
-                <div className="tooltip-arrow"/>
-              </div>}
-            </div>);
+          {month.allDaysSplit.map((week, i) => {
+            return <span className="month-week" key={i}>
+              {/* each week */}
+              {week.map((day, j) => {
+                const dateStr = `${month.id}/${day}`;
+                const activities = data[dateStr];
+                // when hovered show black bg & white text
+                const isHover = tooltip != null && tooltip.dateStr === dateStr;
+                return (<div key={j}
+                  className={`date${isHover ? ' black' : ''}${day !== '' ? ' valid' : ''}${activities != null ? ' with-data' : ''}`}
+                  onMouseOver={() => showDetail(month.id, day)}
+                  onMouseOut={() => hideDetail()}
+                  >
+                  {/* fill SVG background when there are activities,
+                    assuming there are only upto 2 kinds of activities in one day */}
+                  {activities != null && <>
+                    {activities.map((a, k) => <div key={k}
+                      className={`active fill-${isHover ? 'black' : typeIds[a.type]}`}>
+                      <svg viewBox="0 0 32 32" className={`fill${k === 1 ? '-half' : ''}`}>
+                        <use xlinkHref={`#fill${k === 1 ? '-half' : ''}`}/>
+                      </svg>
+                    </div>)}
+                  </>}
+                  {inactiveDays[dateStr] === true && <div className="inactive">
+                    <svg viewBox="0 0 24 24" className="fill">
+                      <use xlinkHref="#inactive"/>
+                    </svg>
+                  </div>}
+                  <div>{day}</div>
+                  {isHover && <div className="tooltip">
+                    <div className="tooltip-content">
+                      <div>{tooltip.dateStr}</div>
+                      <div dangerouslySetInnerHTML={tooltip.content}/>
+                    </div>
+                    <div className="tooltip-arrow"/>
+                  </div>}
+                </div>);
+              })
+            }
+            </span>;
           })}
         </td>
       </tr>)}

@@ -35,10 +35,12 @@
   height: 32px;
   position: relative;
 }
+/* cursor doesn't chage
 .date.valid,
 .date.black {
   cursor: pointer;
 }
+*/
 .date.black.valid.with-data {
   color: white;
 }
@@ -89,6 +91,7 @@
 .tooltip-activity {
   margin-top: 4px;
 }
+
 .tooltip-type {
   text-transform: capitalize;
   display: inline-block;

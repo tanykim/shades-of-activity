@@ -21,16 +21,17 @@ function ByMonth(props) {
             <td className="label">{m}</td>
             <td className="stacked">
               {types.map((type, j) => {
-                // width of each type value
+                // width of each type value  
                 const val = data[i][type];
-                const w = 100 * val / maxTotal;
-                if (w > 0) {
-                  return <div key={j}
-                    className={`stack bg-${j}`}
-                    style={{width: w.toFixed(2) + '%'}}>
-                    {val}
-                  </div>;
+                if (val == null) {
+                  return;
                 }
+                const w = 100 * val / maxTotal;
+                return (<div key={j}
+                  className={`stack bg-${j}`}
+                  style={{width: w.toFixed(2) + '%'}}>
+                  {val}
+                </div>);
               })}
               <div className="total" style={{left: totalW.toFixed(2) + '%'}}>
                 {totals[i]}

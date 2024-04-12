@@ -1,0 +1,1371 @@
+{
+  "types":{
+    "Swimming":140,
+    "MixedCardio":57,
+    "Barre":1,
+    "Yoga":12,
+    "CardioDance":1
+  },
+  "data":{
+    "1/1":[
+      {
+        "type":"Swimming",
+        "note":"74 min / 507 kcal"
+      }
+    ],
+    "1/2":[
+      {
+        "type":"MixedCardio",
+        "note":"58 min / 332 kcal"
+      }
+    ],
+    "1/4":[
+      {
+        "type":"MixedCardio",
+        "note":"44 min / 219 kcal"
+      }
+    ],
+    "1/7":[
+      {
+        "type":"Swimming",
+        "note":"79 min / 571 kcal"
+      }
+    ],
+    "1/8":[
+      {
+        "type":"Swimming",
+        "note":"68 min / 516 kcal"
+      }
+    ],
+    "1/9":[
+      {
+        "type":"Swimming",
+        "note":"56 min / 403 kcal"
+      }
+    ],
+    "1/12":[
+      {
+        "type":"Swimming",
+        "note":"56 min / 412 kcal"
+      }
+    ],
+    "1/14":[
+      {
+        "type":"MixedCardio",
+        "note":"57 min / 299 kcal"
+      }
+    ],
+    "1/15":[
+      {
+        "type":"Swimming",
+        "note":"68 min / 497 kcal"
+      }
+    ],
+    "1/16":[
+      {
+        "type":"Swimming",
+        "note":"68 min / 479 kcal"
+      }
+    ],
+    "1/21":[
+      {
+        "type":"Swimming",
+        "note":"62 min / 435 kcal"
+      }
+    ],
+    "1/22":[
+      {
+        "type":"MixedCardio",
+        "note":"59 min / 239 kcal"
+      }
+    ],
+    "1/23":[
+      {
+        "type":"Swimming",
+        "note":"49 min / 307 kcal"
+      }
+    ],
+    "1/27":[
+      {
+        "type":"Swimming",
+        "note":"81 min / 567 kcal"
+      }
+    ],
+    "1/29":[
+      {
+        "type":"Swimming",
+        "note":"56 min / 442 kcal"
+      }
+    ],
+    "2/1":[
+      {
+        "type":"MixedCardio",
+        "note":"59 min / 308 kcal"
+      }
+    ],
+    "2/5":[
+      {
+        "type":"Swimming",
+        "note":"65 min / 467 kcal"
+      }
+    ],
+    "2/9":[
+      {
+        "type":"Swimming",
+        "note":"65 min / 458 kcal"
+      }
+    ],
+    "2/12":[
+      {
+        "type":"Swimming",
+        "note":"74 min / 527 kcal"
+      }
+    ],
+    "2/16":[
+      {
+        "type":"Swimming",
+        "note":"68 min / 491 kcal"
+      }
+    ],
+    "2/18":[
+      {
+        "type":"Swimming",
+        "note":"51 min / 336 kcal"
+      }
+    ],
+    "2/19":[
+      {
+        "type":"Swimming",
+        "note":"68 min / 474 kcal"
+      }
+    ],
+    "2/20":[
+      {
+        "type":"Swimming",
+        "note":"69 min / 459 kcal"
+      }
+    ],
+    "2/21":[
+      {
+        "type":"Barre",
+        "note":"49 min / 185 kcal"
+      }
+    ],
+    "2/22":[
+      {
+        "type":"Yoga",
+        "note":"57 min / 196 kcal"
+      }
+    ],
+    "2/24":[
+      {
+        "type":"Yoga",
+        "note":"73 min / 212 kcal"
+      }
+    ],
+    "2/25":[
+      {
+        "type":"Swimming",
+        "note":"63 min / 472 kcal"
+      }
+    ],
+    "2/26":[
+      {
+        "type":"MixedCardio",
+        "note":"48 min / 220 kcal"
+      }
+    ],
+    "2/27":[
+      {
+        "type":"MixedCardio",
+        "note":"43 min / 178 kcal"
+      }
+    ],
+    "2/28":[
+      {
+        "type":"MixedCardio",
+        "note":"41 min / 203 kcal"
+      }
+    ],
+    "3/1":[
+      {
+        "type":"Swimming",
+        "note":"57 min / 343 kcal"
+      }
+    ],
+    "3/2":[
+      {
+        "type":"Swimming",
+        "note":"68 min / 498 kcal"
+      }
+    ],
+    "3/11":[
+      {
+        "type":"Swimming",
+        "note":"77 min / 529 kcal"
+      }
+    ],
+    "3/13":[
+      {
+        "type":"Swimming",
+        "note":"57 min / 404 kcal"
+      }
+    ],
+    "3/14":[
+      {
+        "type":"Swimming",
+        "note":"52 min / 379 kcal"
+      }
+    ],
+    "3/16":[
+      {
+        "type":"Swimming",
+        "note":"59 min / 441 kcal"
+      }
+    ],
+    "3/24":[
+      {
+        "type":"Swimming",
+        "note":"77 min / 478 kcal"
+      }
+    ],
+    "3/26":[
+      {
+        "type":"Swimming",
+        "note":"68 min / 513 kcal"
+      }
+    ],
+    "3/29":[
+      {
+        "type":"Swimming",
+        "note":"56 min / 381 kcal"
+      }
+    ],
+    "3/30":[
+      {
+        "type":"Swimming",
+        "note":"66 min / 458 kcal"
+      }
+    ],
+    "4/1":[
+      {
+        "type":"MixedCardio",
+        "note":"50 min / 256 kcal"
+      }
+    ],
+    "4/2":[
+      {
+        "type":"Swimming",
+        "note":"57 min / 403 kcal"
+      }
+    ],
+    "4/8":[
+      {
+        "type":"Swimming",
+        "note":"67 min / 506 kcal"
+      }
+    ],
+    "4/9":[
+      {
+        "type":"Swimming",
+        "note":"58 min / 388 kcal"
+      }
+    ],
+    "4/16":[
+      {
+        "type":"Swimming",
+        "note":"60 min / 415 kcal"
+      }
+    ],
+    "4/18":[
+      {
+        "type":"Swimming",
+        "note":"58 min / 446 kcal"
+      }
+    ],
+    "4/20":[
+      {
+        "type":"Swimming",
+        "note":"70 min / 508 kcal"
+      }
+    ],
+    "4/22":[
+      {
+        "type":"Swimming",
+        "note":"59 min / 391 kcal"
+      }
+    ],
+    "4/24":[
+      {
+        "type":"Swimming",
+        "note":"53 min / 399 kcal"
+      }
+    ],
+    "4/25":[
+      {
+        "type":"Swimming",
+        "note":"62 min / 450 kcal"
+      }
+    ],
+    "4/27":[
+      {
+        "type":"Swimming",
+        "note":"58 min / 398 kcal"
+      }
+    ],
+    "4/28":[
+      {
+        "type":"Yoga",
+        "note":"45 min / 126 kcal"
+      }
+    ],
+    "4/29":[
+      {
+        "type":"Swimming",
+        "note":"61 min / 402 kcal"
+      }
+    ],
+    "4/30":[
+      {
+        "type":"MixedCardio",
+        "note":"42 min / 221 kcal"
+      }
+    ],
+    "5/1":[
+      {
+        "type":"Yoga",
+        "note":"45 min / 132 kcal"
+      }
+    ],
+    "5/4":[
+      {
+        "type":"Swimming",
+        "note":"46 min / 341 kcal"
+      }
+    ],
+    "5/6":[
+      {
+        "type":"Swimming",
+        "note":"59 min / 435 kcal"
+      }
+    ],
+    "5/7":[
+      {
+        "type":"Swimming",
+        "note":"63 min / 366 kcal"
+      }
+    ],
+    "5/9":[
+      {
+        "type":"Swimming",
+        "note":"49 min / 350 kcal"
+      }
+    ],
+    "5/14":[
+      {
+        "type":"Swimming",
+        "note":"62 min / 460 kcal"
+      }
+    ],
+    "5/16":[
+      {
+        "type":"Swimming",
+        "note":"48 min / 331 kcal"
+      }
+    ],
+    "5/19":[
+      {
+        "type":"Swimming",
+        "note":"50 min / 354 kcal"
+      }
+    ],
+    "5/21":[
+      {
+        "type":"Swimming",
+        "note":"65 min / 503 kcal"
+      }
+    ],
+    "6/3":[
+      {
+        "type":"Swimming",
+        "note":"79 min / 370 kcal"
+      }
+    ],
+    "6/4":[
+      {
+        "type":"Swimming",
+        "note":"150 min / 1224 kcal"
+      }
+    ],
+    "6/5":[
+      {
+        "type":"Swimming",
+        "note":"115 min / 981 kcal"
+      }
+    ],
+    "6/6":[
+      {
+        "type":"Swimming",
+        "note":"150 min / 1331 kcal"
+      }
+    ],
+    "6/7":[
+      {
+        "type":"Swimming",
+        "note":"152 min / 1319 kcal"
+      }
+    ],
+    "6/13":[
+      {
+        "type":"Swimming",
+        "note":"55 min / 462 kcal"
+      }
+    ],
+    "6/14":[
+      {
+        "type":"Swimming",
+        "note":"69 min / 522 kcal"
+      }
+    ],
+    "6/15":[
+      {
+        "type":"Swimming",
+        "note":"54 min / 371 kcal"
+      }
+    ],
+    "6/16":[
+      {
+        "type":"Swimming",
+        "note":"44 min / 411 kcal"
+      }
+    ],
+    "6/18":[
+      {
+        "type":"Swimming",
+        "note":"74 min / 572 kcal"
+      }
+    ],
+    "6/20":[
+      {
+        "type":"Swimming",
+        "note":"43 min / 354 kcal"
+      }
+    ],
+    "6/22":[
+      {
+        "type":"Swimming",
+        "note":"35 min / 259 kcal"
+      }
+    ],
+    "6/23":[
+      {
+        "type":"Swimming",
+        "note":"48 min / 395 kcal"
+      }
+    ],
+    "6/25":[
+      {
+        "type":"Yoga",
+        "note":"45 min / 104 kcal"
+      }
+    ],
+    "6/26":[
+      {
+        "type":"Yoga",
+        "note":"45 min / 165 kcal"
+      }
+    ],
+    "6/28":[
+      {
+        "type":"MixedCardio",
+        "note":"42 min / 164 kcal"
+      }
+    ],
+    "6/30":[
+      {
+        "type":"MixedCardio",
+        "note":"33 min / 180 kcal"
+      }
+    ],
+    "7/1":[
+      {
+        "type":"Swimming",
+        "note":"52 min / 412 kcal"
+      }
+    ],
+    "7/2":[
+      {
+        "type":"Swimming",
+        "note":"69 min / 509 kcal"
+      }
+    ],
+    "7/3":[
+      {
+        "type":"MixedCardio",
+        "note":"41 min / 210 kcal"
+      }
+    ],
+    "7/4":[
+      {
+        "type":"Swimming",
+        "note":"61 min / 443 kcal"
+      }
+    ],
+    "7/6":[
+      {
+        "type":"Swimming",
+        "note":"58 min / 403 kcal"
+      }
+    ],
+    "7/7":[
+      {
+        "type":"MixedCardio",
+        "note":"42 min / 218 kcal"
+      }
+    ],
+    "7/8":[
+      {
+        "type":"Swimming",
+        "note":"62 min / 412 kcal"
+      }
+    ],
+    "7/9":[
+      {
+        "type":"Swimming",
+        "note":"62 min / 238 kcal"
+      }
+    ],
+    "7/10":[
+      {
+        "type":"MixedCardio",
+        "note":"43 min / 206 kcal"
+      }
+    ],
+    "7/11":[
+      {
+        "type":"Swimming",
+        "note":"57 min / 478 kcal"
+      }
+    ],
+    "7/13":[
+      {
+        "type":"Swimming",
+        "note":"52 min / 404 kcal"
+      }
+    ],
+    "7/14":[
+      {
+        "type":"MixedCardio",
+        "note":"48 min / 205 kcal"
+      }
+    ],
+    "7/15":[
+      {
+        "type":"Yoga",
+        "note":"45 min / 110 kcal"
+      }
+    ],
+    "7/16":[
+      {
+        "type":"Swimming",
+        "note":"72 min / 502 kcal"
+      }
+    ],
+    "7/17":[
+      {
+        "type":"MixedCardio",
+        "note":"41 min / 187 kcal"
+      }
+    ],
+    "7/18":[
+      {
+        "type":"Swimming",
+        "note":"61 min / 450 kcal"
+      }
+    ],
+    "7/19":[
+      {
+        "type":"MixedCardio",
+        "note":"32 min / 140 kcal"
+      }
+    ],
+    "7/20":[
+      {
+        "type":"Swimming",
+        "note":"59 min / 517 kcal"
+      }
+    ],
+    "7/23":[
+      {
+        "type":"Swimming",
+        "note":"64 min / 445 kcal"
+      }
+    ],
+    "7/24":[
+      {
+        "type":"MixedCardio",
+        "note":"49 min / 209 kcal"
+      }
+    ],
+    "7/25":[
+      {
+        "type":"Swimming",
+        "note":"59 min / 464 kcal"
+      }
+    ],
+    "7/26":[
+      {
+        "type":"MixedCardio",
+        "note":"37 min / 176 kcal"
+      }
+    ],
+    "7/27":[
+      {
+        "type":"Swimming",
+        "note":"53 min / 413 kcal"
+      }
+    ],
+    "7/28":[
+      {
+        "type":"Yoga",
+        "note":"45 min / 113 kcal"
+      }
+    ],
+    "7/30":[
+      {
+        "type":"Swimming",
+        "note":"74 min / 488 kcal"
+      }
+    ],
+    "7/31":[
+      {
+        "type":"MixedCardio",
+        "note":"33 min / 159 kcal"
+      }
+    ],
+    "8/1":[
+      {
+        "type":"Swimming",
+        "note":"56 min / 328 kcal"
+      }
+    ],
+    "8/2":[
+      {
+        "type":"MixedCardio",
+        "note":"33 min / 182 kcal"
+      }
+    ],
+    "8/3":[
+      {
+        "type":"Swimming",
+        "note":"62 min / 497 kcal"
+      }
+    ],
+    "8/5":[
+      {
+        "type":"Swimming",
+        "note":"56 min / 432 kcal"
+      }
+    ],
+    "8/6":[
+      {
+        "type":"Swimming",
+        "note":"70 min / 494 kcal"
+      }
+    ],
+    "8/7":[
+      {
+        "type":"MixedCardio",
+        "note":"42 min / 198 kcal"
+      }
+    ],
+    "8/8":[
+      {
+        "type":"Swimming",
+        "note":"59 min / 474 kcal"
+      }
+    ],
+    "8/9":[
+      {
+        "type":"MixedCardio",
+        "note":"37 min / 197 kcal"
+      }
+    ],
+    "8/10":[
+      {
+        "type":"Swimming",
+        "note":"59 min / 423 kcal"
+      }
+    ],
+    "8/11":[
+      {
+        "type":"Yoga",
+        "note":"45 min / 106 kcal"
+      }
+    ],
+    "8/12":[
+      {
+        "type":"MixedCardio",
+        "note":"44 min / 199 kcal"
+      }
+    ],
+    "8/13":[
+      {
+        "type":"Swimming",
+        "note":"35 min / 247 kcal"
+      }
+    ],
+    "8/15":[
+      {
+        "type":"Swimming",
+        "note":"60 min / 482 kcal"
+      }
+    ],
+    "8/16":[
+      {
+        "type":"MixedCardio",
+        "note":"42 min / 160 kcal"
+      }
+    ],
+    "8/17":[
+      {
+        "type":"Swimming",
+        "note":"57 min / 438 kcal"
+      }
+    ],
+    "8/19":[
+      {
+        "type":"Swimming",
+        "note":"69 min / 517 kcal"
+      }
+    ],
+    "8/20":[
+      {
+        "type":"MixedCardio",
+        "note":"39 min / 161 kcal"
+      }
+    ],
+    "8/21":[
+      {
+        "type":"MixedCardio",
+        "note":"38 min / 203 kcal"
+      }
+    ],
+    "8/23":[
+      {
+        "type":"MixedCardio",
+        "note":"42 min / 214 kcal"
+      }
+    ],
+    "8/24":[
+      {
+        "type":"Swimming",
+        "note":"54 min / 454 kcal"
+      }
+    ],
+    "8/27":[
+      {
+        "type":"Swimming",
+        "note":"67 min / 470 kcal"
+      }
+    ],
+    "8/28":[
+      {
+        "type":"MixedCardio",
+        "note":"38 min / 157 kcal"
+      }
+    ],
+    "8/29":[
+      {
+        "type":"Swimming",
+        "note":"55 min / 408 kcal"
+      }
+    ],
+    "8/30":[
+      {
+        "type":"MixedCardio",
+        "note":"42 min / 191 kcal"
+      }
+    ],
+    "8/31":[
+      {
+        "type":"Swimming",
+        "note":"54 min / 428 kcal"
+      }
+    ],
+    "9/4":[
+      {
+        "type":"Swimming",
+        "note":"80 min / 612 kcal"
+      }
+    ],
+    "9/6":[
+      {
+        "type":"MixedCardio",
+        "note":"45 min / 188 kcal"
+      }
+    ],
+    "9/7":[
+      {
+        "type":"Swimming",
+        "note":"56 min / 442 kcal"
+      }
+    ],
+    "9/9":[
+      {
+        "type":"Swimming",
+        "note":"75 min / 605 kcal"
+      }
+    ],
+    "9/10":[
+      {
+        "type":"Swimming",
+        "note":"49 min / 334 kcal"
+      }
+    ],
+    "9/11":[
+      {
+        "type":"MixedCardio",
+        "note":"53 min / 237 kcal"
+      }
+    ],
+    "9/12":[
+      {
+        "type":"Swimming",
+        "note":"53 min / 439 kcal"
+      }
+    ],
+    "9/13":[
+      {
+        "type":"MixedCardio",
+        "note":"45 min / 216 kcal"
+      }
+    ],
+    "9/14":[
+      {
+        "type":"Swimming",
+        "note":"61 min / 506 kcal"
+      }
+    ],
+    "9/15":[
+      {
+        "type":"Yoga",
+        "note":"45 min / 111 kcal"
+      }
+    ],
+    "9/16":[
+      {
+        "type":"Swimming",
+        "note":"60 min / 423 kcal"
+      }
+    ],
+    "9/17":[
+      {
+        "type":"Yoga",
+        "note":"77 min / 131 kcal"
+      }
+    ],
+    "9/19":[
+      {
+        "type":"Swimming",
+        "note":"61 min / 450 kcal"
+      }
+    ],
+    "9/20":[
+      {
+        "type":"MixedCardio",
+        "note":"50 min / 228 kcal"
+      }
+    ],
+    "9/21":[
+      {
+        "type":"Swimming",
+        "note":"52 min / 406 kcal"
+      }
+    ],
+    "9/23":[
+      {
+        "type":"Swimming",
+        "note":"81 min / 560 kcal"
+      }
+    ],
+    "9/24":[
+      {
+        "type":"Swimming",
+        "note":"62 min / 368 kcal"
+      }
+    ],
+    "9/25":[
+      {
+        "type":"MixedCardio",
+        "note":"49 min / 234 kcal"
+      }
+    ],
+    "9/28":[
+      {
+        "type":"Swimming",
+        "note":"54 min / 438 kcal"
+      }
+    ],
+    "9/29":[
+      {
+        "type":"MixedCardio",
+        "note":"40 min / 168 kcal"
+      }
+    ],
+    "9/30":[
+      {
+        "type":"CardioDance",
+        "note":"40 min / 238 kcal"
+      }
+    ],
+    "10/1":[
+      {
+        "type":"Swimming",
+        "note":"66 min / 479 kcal"
+      }
+    ],
+    "10/2":[
+      {
+        "type":"MixedCardio",
+        "note":"42 min / 190 kcal"
+      }
+    ],
+    "10/3":[
+      {
+        "type":"Swimming",
+        "note":"60 min / 398 kcal"
+      }
+    ],
+    "10/4":[
+      {
+        "type":"MixedCardio",
+        "note":"47 min / 231 kcal"
+      }
+    ],
+    "10/5":[
+      {
+        "type":"Swimming",
+        "note":"58 min / 429 kcal"
+      }
+    ],
+    "10/8":[
+      {
+        "type":"Swimming",
+        "note":"64 min / 459 kcal"
+      }
+    ],
+    "10/9":[
+      {
+        "type":"MixedCardio",
+        "note":"43 min / 171 kcal"
+      }
+    ],
+    "10/10":[
+      {
+        "type":"Swimming",
+        "note":"58 min / 376 kcal"
+      }
+    ],
+    "10/12":[
+      {
+        "type":"Swimming",
+        "note":"55 min / 445 kcal"
+      }
+    ],
+    "10/14":[
+      {
+        "type":"Swimming",
+        "note":"54 min / 402 kcal"
+      }
+    ],
+    "10/16":[
+      {
+        "type":"MixedCardio",
+        "note":"45 min / 273 kcal"
+      }
+    ],
+    "10/17":[
+      {
+        "type":"Swimming",
+        "note":"59 min / 415 kcal"
+      }
+    ],
+    "10/18":[
+      {
+        "type":"MixedCardio",
+        "note":"37 min / 171 kcal"
+      }
+    ],
+    "10/19":[
+      {
+        "type":"Swimming",
+        "note":"56 min / 403 kcal"
+      }
+    ],
+    "10/20":[
+      {
+        "type":"MixedCardio",
+        "note":"50 min / 255 kcal"
+      }
+    ],
+    "10/21":[
+      {
+        "type":"Swimming",
+        "note":"49 min / 322 kcal"
+      }
+    ],
+    "10/24":[
+      {
+        "type":"Swimming",
+        "note":"55 min / 424 kcal"
+      }
+    ],
+    "10/26":[
+      {
+        "type":"Swimming",
+        "note":"51 min / 377 kcal"
+      }
+    ],
+    "10/28":[
+      {
+        "type":"Swimming",
+        "note":"61 min / 442 kcal"
+      }
+    ],
+    "10/29":[
+      {
+        "type":"Swimming",
+        "note":"60 min / 414 kcal"
+      }
+    ],
+    "11/5":[
+      {
+        "type":"Swimming",
+        "note":"61 min / 427 kcal"
+      }
+    ],
+    "11/7":[
+      {
+        "type":"Swimming",
+        "note":"50 min / 382 kcal"
+      }
+    ],
+    "11/8":[
+      {
+        "type":"MixedCardio",
+        "note":"47 min / 302 kcal"
+      }
+    ],
+    "11/9":[
+      {
+        "type":"Swimming",
+        "note":"54 min / 398 kcal"
+      }
+    ],
+    "11/10":[
+      {
+        "type":"MixedCardio",
+        "note":"37 min / 187 kcal"
+      }
+    ],
+    "11/11":[
+      {
+        "type":"Swimming",
+        "note":"53 min / 403 kcal"
+      }
+    ],
+    "11/12":[
+      {
+        "type":"Swimming",
+        "note":"41 min / 286 kcal"
+      }
+    ],
+    "11/14":[
+      {
+        "type":"Swimming",
+        "note":"53 min / 408 kcal"
+      }
+    ],
+    "11/16":[
+      {
+        "type":"Swimming",
+        "note":"54 min / 458 kcal"
+      }
+    ],
+    "11/18":[
+      {
+        "type":"Swimming",
+        "note":"69 min / 548 kcal"
+      }
+    ],
+    "11/19":[
+      {
+        "type":"MixedCardio",
+        "note":"52 min / 213 kcal"
+      }
+    ],
+    "11/21":[
+      {
+        "type":"Swimming",
+        "note":"54 min / 398 kcal"
+      }
+    ],
+    "11/22":[
+      {
+        "type":"MixedCardio",
+        "note":"41 min / 176 kcal"
+      }
+    ],
+    "11/24":[
+      {
+        "type":"Swimming",
+        "note":"72 min / 523 kcal"
+      }
+    ],
+    "11/26":[
+      {
+        "type":"Swimming",
+        "note":"85 min / 680 kcal"
+      }
+    ],
+    "11/27":[
+      {
+        "type":"MixedCardio",
+        "note":"48 min / 216 kcal"
+      }
+    ],
+    "11/29":[
+      {
+        "type":"MixedCardio",
+        "note":"33 min / 190 kcal"
+      }
+    ],
+    "11/30":[
+      {
+        "type":"Swimming",
+        "note":"54 min / 415 kcal"
+      }
+    ],
+    "12/1":[
+      {
+        "type":"MixedCardio",
+        "note":"50 min / 216 kcal"
+      }
+    ],
+    "12/2":[
+      {
+        "type":"Swimming",
+        "note":"76 min / 560 kcal"
+      }
+    ],
+    "12/3":[
+      {
+        "type":"MixedCardio",
+        "note":"55 min / 248 kcal"
+      }
+    ],
+    "12/5":[
+      {
+        "type":"MixedCardio",
+        "note":"50 min / 261 kcal"
+      }
+    ],
+    "12/7":[
+      {
+        "type":"Swimming",
+        "note":"58 min / 401 kcal"
+      }
+    ],
+    "12/9":[
+      {
+        "type":"Swimming",
+        "note":"67 min / 463 kcal"
+      }
+    ],
+    "12/11":[
+      {
+        "type":"MixedCardio",
+        "note":"40 min / 166 kcal"
+      }
+    ],
+    "12/12":[
+      {
+        "type":"Swimming",
+        "note":"58 min / 447 kcal"
+      }
+    ],
+    "12/14":[
+      {
+        "type":"Swimming",
+        "note":"50 min / 400 kcal"
+      }
+    ],
+    "12/16":[
+      {
+        "type":"Swimming",
+        "note":"63 min / 519 kcal"
+      }
+    ],
+    "12/17":[
+      {
+        "type":"Swimming",
+        "note":"80 min / 521 kcal"
+      }
+    ],
+    "12/18":[
+      {
+        "type":"MixedCardio",
+        "note":"36 min / 182 kcal"
+      }
+    ],
+    "12/19":[
+      {
+        "type":"Swimming",
+        "note":"42 min / 287 kcal"
+      }
+    ],
+    "12/21":[
+      {
+        "type":"Swimming",
+        "note":"53 min / 429 kcal"
+      }
+    ],
+    "12/22":[
+      {
+        "type":"Yoga",
+        "note":"45 min / 135 kcal"
+      }
+    ],
+    "12/23":[
+      {
+        "type":"Swimming",
+        "note":"74 min / 573 kcal"
+      }
+    ],
+    "12/24":[
+      {
+        "type":"MixedCardio",
+        "note":"50 min / 209 kcal"
+      }
+    ],
+    "12/25":[
+      {
+        "type":"Swimming",
+        "note":"82 min / 644 kcal"
+      }
+    ],
+    "12/26":[
+      {
+        "type":"MixedCardio",
+        "note":"48 min / 210 kcal"
+      }
+    ],
+    "12/27":[
+      {
+        "type":"MixedCardio",
+        "note":"55 min / 216 kcal"
+      }
+    ],
+    "12/28":[
+      {
+        "type":"Swimming",
+        "note":"67 min / 508 kcal"
+      }
+    ]
+  },
+  "by_day":[
+    {
+      "Swimming":33,
+      "MixedCardio":7,
+      "Yoga":2
+    },
+    {
+      "MixedCardio":18,
+      "Swimming":9,
+      "Yoga":2
+    },
+    {
+      "Barre":1,
+      "MixedCardio":3,
+      "Swimming":27
+    },
+    {
+      "MixedCardio":19,
+      "Yoga":1,
+      "Swimming":4
+    },
+    {
+      "Swimming":35
+    },
+    {
+      "Swimming":6,
+      "Yoga":6,
+      "MixedCardio":7
+    },
+    {
+      "Swimming":26,
+      "MixedCardio":3,
+      "Yoga":1,
+      "CardioDance":1
+    }
+  ],
+  "by_month":[
+    {
+      "Swimming":11,
+      "MixedCardio":4
+    },
+    {
+      "MixedCardio":4,
+      "Swimming":8,
+      "Barre":1,
+      "Yoga":2
+    },
+    {
+      "Swimming":10
+    },
+    {
+      "MixedCardio":2,
+      "Swimming":11,
+      "Yoga":1
+    },
+    {
+      "Yoga":1,
+      "Swimming":8
+    },
+    {
+      "Swimming":13,
+      "Yoga":2,
+      "MixedCardio":2
+    },
+    {
+      "Swimming":15,
+      "MixedCardio":9,
+      "Yoga":2
+    },
+    {
+      "Swimming":14,
+      "MixedCardio":10,
+      "Yoga":1
+    },
+    {
+      "Swimming":12,
+      "MixedCardio":6,
+      "Yoga":2,
+      "CardioDance":1
+    },
+    {
+      "Swimming":14,
+      "MixedCardio":6
+    },
+    {
+      "Swimming":12,
+      "MixedCardio":6
+    },
+    {
+      "MixedCardio":8,
+      "Swimming":12,
+      "Yoga":1
+    }
+  ]
+}
